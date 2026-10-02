@@ -12,5 +12,5 @@
 
 ## Notes
 - What did the AI get right? (Claude's answers matched the arXiv record.)
-- What did it get wrong or leave unsupported? TODO-YOU (venue/affiliations unverified; second assistant's errors if any).
-- What did I learn about verification? TODO-YOU.
+- What did it get wrong or leave unsupported? No errors
+- What did I learn about verification? verification can be different in official papers and AI but not always
