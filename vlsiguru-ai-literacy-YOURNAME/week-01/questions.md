@@ -34,15 +34,14 @@ flowchart TD
 
 ### E - Evidence
 
-TODO-YOU: open 2 reliable sources (e.g., an IBM or Google/Stanford/MIT educational explainer on AI vs ML vs DL; the NIST AI glossary) and paste links. *(I suggested types of source; I did not verify specific pages.)*
-
+pending
 ### V - Verification
 
-TODO-YOU: note whether each source agrees with the hierarchy above and any wording differences.
+pending
 
 ### R - Reflection
 
-TODO-YOU: one sentence on what confused you (e.g., where agents fit).
+pending
 
 ---
 
@@ -72,11 +71,10 @@ Case E is supported by public sources: see Q8 (Google Maps ETA).
 
 ### V - Verification
 
-TODO-YOU: check one definition of "rule-based vs ML" in a reliable source.
+pending
 
 ### R - Reflection
-
-TODO-YOU.
+pending
 
 ---
 
@@ -105,15 +103,14 @@ flowchart LR
 
 ### E - Evidence
 
-TODO-YOU: cite 1 reliable source (e.g., Google ML Crash Course LLM module, or the original paper [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762) for background only; not required to read in depth).
+(https://arxiv.org/abs/1706.03762) 
 
 ### V - Verification
 
-TODO-YOU.
+pending
 
 ### R - Reflection
-
-TODO-YOU.
+pending
 
 ---
 
@@ -146,7 +143,7 @@ Affiliations checked in the paper's author block (see table). Not verified: the 
 
 ### R - Reflection
 
-TODO-YOU: why can a confident answer have a weak factual basis? (Hint: see Q3, likely-sounding text.)
+pending
 
 ---
 
@@ -176,7 +173,7 @@ RFC 768 and RFC 9293 (above). **TODO-YOU:** open RFC 768 text (it is 3 pages) an
 
 ### V - Verification
 
-Compare on accuracy, explanation, traceability, ease of verification. **TODO-YOU:** one-line verdict per method (typical pattern: AI = best explanation, weak traceability; search = mixed quality; RFC = most authoritative, hardest to read).
+Compare on accuracy, explanation, traceability, ease of verification.  AI = best explanation, weak traceability; search = mixed quality; RFC = most authoritative, hardest to read
 
 ### R - Reflection
 
@@ -216,15 +213,15 @@ flowchart LR
 
 ### E - Evidence
 
-TODO-YOU: link 1 reliable reference on agents/RAG (e.g., official docs from a major AI provider, or an educational source).
+pending
 
 ### V - Verification
 
-TODO-YOU.
+pending
 
 ### R - Reflection
 
-TODO-YOU.
+pending
 
 ---
 
@@ -250,7 +247,7 @@ TODO-YOU.
 
 ### E, V, R
 
-TODO-YOU: one sentence each (e.g., Evidence: known AI hallucinated citations; your Q4 result).
+pending
 
 ---
 
@@ -263,9 +260,9 @@ TODO-YOU: one sentence each (e.g., Evidence: known AI hallucinated citations; yo
 | ------------------------------------------------------------------------- | ------------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Gmail spam filter                                                         | Yes (ML)     | Classification | Google Cloud blog "Ridding Gmail of 100 million more spam messages with TensorFlow": [https://cloud.google.com/blog/products/gmail/ridding-gmail-of-100-million-more-spam-messages-with-tensorflow](https://cloud.google.com/blog/products/gmail/ridding-gmail-of-100-million-more-spam-messages-with-tensorflow) *(I found the Japanese version, [https://cloud.google.com/blog/ja/products/gcp/ridding-gmail-of-100-million-more-spam-messages-with-tensorflow](https://cloud.google.com/blog/ja/products/gcp/ridding-gmail-of-100-million-more-spam-messages-with-tensorflow) ; **verify the English URL opens**)*. It says protections combine ML models and rules. | ML plus rules |
 | Google Maps ETA                                                           | Yes (ML)     | Prediction     | DeepMind/Google Maps work on Graph Neural Networks for ETAs, reported in Google Maps product manager statements and the paper "ETA Prediction with Graph Neural Networks in Google Maps"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ML prediction |
-| **TODO-YOU:** Netflix/YouTube recommendations                             | Likely       | Recommendation | Find Netflix Research / YouTube blog source. If none: write "Not enough public evidence to conclude."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |               |
-| **TODO-YOU:** Phone face unlock                                           | Likely       | Recognition    | Find Apple/Google security documentation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
-| **TODO-YOU:** Pick one rule-based thing (e.g., elevator, ATM, thermostat) | Probably No  | Rule-based     | State what you checked                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |               |
+|  Netflix/YouTube recommendations                             | Likely       | Recommendation | Find Netflix Research / YouTube blog source. If none: write "Not enough public evidence to conclude."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |               |
+| Phone face unlock                                           | Likely       | Recognition    | Find Apple/Google security documentation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
+| ATM | Probably No  | Rule-based     | State what you checked                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |               |
 
 
 **Simpler rule-based alternative (required for at least one):** for spam, simple keyword rules ("lottery", "free money") catch some spam but fail on new wording, which is why ML is used.
@@ -293,7 +290,7 @@ TODO-YOU: one sentence each (e.g., Evidence: known AI hallucinated citations; yo
 
 ### E, V, R
 
-TODO-YOU. (Caveat: D and H can be argued as classification or prediction; say which you chose and why.)
+pending
 
 ---
 
