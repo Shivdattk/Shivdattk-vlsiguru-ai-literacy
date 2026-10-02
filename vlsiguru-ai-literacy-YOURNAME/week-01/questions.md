@@ -169,7 +169,7 @@ pending
 
 ### E - Evidence
 
-RFC 768 and RFC 9293 (above). **TODO-YOU:** open RFC 768 text (it is 3 pages) and confirm the "delivery and duplicate protection are not guaranteed" wording yourself; my search view of it was truncated.
+RFC 768 and RFC 9293 
 
 ### V - Verification
 
